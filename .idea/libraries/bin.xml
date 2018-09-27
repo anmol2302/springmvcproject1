@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/apache-tomcat-9.0.12/bin/commons-daemon.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-tomcat-9.0.12/bin/tomcat-juli.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/apache-tomcat-9.0.12/bin/bootstrap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
